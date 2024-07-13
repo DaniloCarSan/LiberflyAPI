@@ -29,7 +29,7 @@
 
 ## Documentação da api com Openapi
 
-A documentação se encontra na página inicial da aplicação **http://localhost/**, quando executada, ou você pode visualizar a espeficificação no arquivo
+A documentação se encontra na página inicial da aplicação **http://localhost/** ou **./docs/api-docs.html**, quando executada, ou você pode visualizar a espeficificação no arquivo
 **openapi.yml** na raiz do projeto. Para facilitar a visualização ou até mesmo testar você pode estar importando o arquivo dentro do
 insomnia ou no vscode com a extenção **42Crunch.vscode-openapi**
 
